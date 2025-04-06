@@ -31,7 +31,7 @@
         "text_kVgnPh"
       ],
       "custom_css": [
-        "{margin-bottom: 0px; padding-bottom: 0px;}"
+        ".rich-text {padding-bottom: 0px;}"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -47,6 +47,7 @@
       "blocks": {
         "column_JMgMCj": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Hardware Creator",
             "text": "<p>While focusing on usability, the funky appearance, the wild ideas are creating a space that's totally unique and super cozy.</p>",
@@ -111,6 +112,9 @@
         "column_RGi3JL",
         "column_PeeN4X",
         "column_Hxcgxz"
+      ],
+      "custom_css": [
+        ".animate--slide-in {padding-top: 0;}"
       ],
       "settings": {
         "title": "",
