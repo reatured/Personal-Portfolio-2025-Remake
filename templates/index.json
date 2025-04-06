@@ -114,7 +114,8 @@
         "column_Hxcgxz"
       ],
       "custom_css": [
-        ".animate--slide-in {padding-top: 0;}"
+        ".animate--slide-in {padding-top: 5;}",
+        "media--adapt {width: 100%}"
       ],
       "settings": {
         "title": "",
